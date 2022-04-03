@@ -116,6 +116,7 @@ export default class Entry extends Component {
   render() {
     const { currentEntry } = this.state;
 
+    
     return (
       <div>
         {currentEntry ? (
