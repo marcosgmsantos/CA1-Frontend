@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import EntryDataService from "../services/apiservices";
 import { Link } from "react-router-dom";
 
+
 export default class List extends Component {
   constructor(props) {
     super(props);
